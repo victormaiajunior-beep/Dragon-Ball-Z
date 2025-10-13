@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 body{
     background-color: black;
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 20px;
 }
